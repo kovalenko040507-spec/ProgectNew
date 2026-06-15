@@ -1,0 +1,6 @@
+PyQt6==6.11.0
+requests==2.34.2
+pyqtgraph==0.14.0
+
+python-qt5
+pyqt6-sip
