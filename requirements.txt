@@ -1,6 +1,6 @@
 PyQt6==6.11.0
 requests==2.34.2
 pyqtgraph==0.14.0
-
-python-qt5
+matplotlib>=3.7.0
+numpy>=1.24.0
 pyqt6-sip
